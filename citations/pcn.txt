@@ -1,0 +1,8 @@
+@inproceedings{yuan2018pcn,
+  title={Pcn: Point completion network},
+  author={Yuan, Wentao and Khot, Tejas and Held, David and Mertz, Christoph and Hebert, Martial},
+  booktitle={2018 international conference on 3D vision (3DV)},
+  pages={728--737},
+  year={2018},
+  organization={IEEE}
+}

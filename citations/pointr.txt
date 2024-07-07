@@ -1,0 +1,7 @@
+@inproceedings{yu2021pointr,
+  title={Pointr: Diverse point cloud completion with geometry-aware transformers},
+  author={Yu, Xumin and Rao, Yongming and Wang, Ziyi and Liu, Zuyan and Lu, Jiwen and Zhou, Jie},
+  booktitle={Proceedings of the IEEE/CVF international conference on computer vision},
+  pages={12498--12507},
+  year={2021}
+}
