@@ -1,0 +1,6 @@
+@article{huang2024zero,
+  title={Zero-shot Point Cloud Completion Via 2D Priors},
+  author={Huang, Tianxin and Yan, Zhiwen and Zhao, Yuyang and Lee, Gim Hee},
+  journal={arXiv preprint arXiv:2404.06814},
+  year={2024}
+}

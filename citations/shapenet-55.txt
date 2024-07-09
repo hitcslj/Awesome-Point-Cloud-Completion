@@ -1,0 +1,6 @@
+@article{yi2017large,
+  title={Large-scale 3d shape reconstruction and segmentation from shapenet core55},
+  author={Yi, Li and Shao, Lin and Savva, Manolis and Huang, Haibin and Zhou, Yang and Wang, Qirui and Graham, Benjamin and Engelcke, Martin and Klokov, Roman and Lempitsky, Victor and others},
+  journal={arXiv preprint arXiv:1710.06104},
+  year={2017}
+}

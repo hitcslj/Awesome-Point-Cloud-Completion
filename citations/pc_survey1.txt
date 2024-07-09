@@ -1,0 +1,10 @@
+@article{fei2022comprehensive,
+  title={Comprehensive review of deep learning-based 3d point cloud completion processing and analysis},
+  author={Fei, Ben and Yang, Weidong and Chen, Wen-Ming and Li, Zhijun and Li, Yikang and Ma, Tao and Hu, Xing and Ma, Lipeng},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  volume={23},
+  number={12},
+  pages={22862--22883},
+  year={2022},
+  publisher={IEEE}
+}

@@ -1,0 +1,7 @@
+@article{liu2019point,
+  title={Point-voxel cnn for efficient 3d deep learning},
+  author={Liu, Zhijian and Tang, Haotian and Lin, Yujun and Han, Song},
+  journal={Advances in neural information processing systems},
+  volume={32},
+  year={2019}
+}

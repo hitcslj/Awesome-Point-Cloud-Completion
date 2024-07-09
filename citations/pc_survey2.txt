@@ -1,0 +1,10 @@
+@ARTICLE{10433645,
+  author={Zhuang, Zhiyun and Zhi, Zhiyang and Han, Ting and Chen, Yiping and Chen, Jun and Wang, Cheng and Cheng, Ming and Zhang, Xinchang and Qin, Nannan and Ma, Lingfei},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={A Survey of Point Cloud Completion}, 
+  year={2024},
+  volume={17},
+  number={},
+  pages={5691-5711},
+  keywords={Point cloud compression;Shape;Three-dimensional displays;Deep learning;Sensors;Task analysis;Surveys;3-D data;deep learning;model construction;point cloud completion;review},
+  doi={10.1109/JSTARS.2024.3362476}}

@@ -16,7 +16,9 @@ This repository catalogs the papers I referenced while completing a project on p
 
 ## Survey
 
-- TODO
+- [Comprehensive Review of Deep Learning-Based 3D Point Cloud Completion Processing and Analysis](https://arxiv.org/abs/2203.03311), Fei et al., IEEE Transactions on Intelligent Transportation Systems 2017 | [bibtext](./citations/pc_survey1.txt) 
+- [A Survey of Point Cloud Completion](https://ieeexplore.ieee.org/document/10433645), Zhuang et al., IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 2017 | [bibtext](./citations/pc_survey2.txt) 
+
 
 ## Papers
 <details open>
@@ -24,20 +26,45 @@ This repository catalogs the papers I referenced while completing a project on p
 
 - [PCN: Point Completion Network](https://arxiv.org/abs/1808.00671), Yuan et al., 3DV 2018 | [github](https://github.com/wentaoyuan/pcn) | [bibtext](./citations/pcn.txt) 
 - [PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers](https://arxiv.org/abs/2108.08839), Yu et al., ICCV 2021 | [github](https://github.com/yuxumin/PoinTr) | [bibtext](./citations/pointr.txt) 
-
-
+- [AdaPoinTr: Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers](https://arxiv.org/abs/2301.04545), Yu et al., TPAMI 2023 | [github](https://github.com/yuxumin/PoinTr) | [bibtext](./citations/AdaPoinTr.txt) 
 
 </details>
 
 
-## Benchmarks and Datasets
+<details open>
+<summary>Voxel-based</summary>
 
+- [High-Resolution Shape Completion Using Deep Neural Networks for Global Structure and Local Geometry Inference](https://arxiv.org/abs/1709.07599), Han et al., ICCV 2017 | [bibtext](./citations/pcn.txt) 
+- [Learning 3D Shape Completion under Weak Supervision](https://arxiv.org/abs/1805.07290), Stutz et al., CVPR 2018 | [github](https://github.com/davidstutz/cvpr2018-shape-completion) | [bibtext](./citations/scweak.txt) 
+- [Relation-Shape Convolutional Neural Network for Point Cloud Analysis](https://arxiv.org/abs/1904.07601), Liu et al., CVPR 2019 | [github](https://github.com/Yochengliu/Relation-Shape-CNN) | [bibtext](./citations/rscnn.txt) 
+- [Point-Voxel CNN for Efficient 3D Deep Learning](https://arxiv.org/abs/1907.03739), Liu et al., NeurIPS 2019 | [github](https://github.com/mit-han-lab/pvcnn) | [bibtext](./citations/pvcnn.txt)
+
+
+</details>
+
+<details open>
+<summary>TSDF-based</summary>
+
+- [DiffComplete: Diffusion-based Generative 3D Shape Completion](https://arxiv.org/abs/2306.16329), Chu et al., NeurIPS 2024 | [bibtext](./citations/diffcomplete.txt) 
+
+</details>
+
+<details open>
+<summary>Neural Repersentation-based</summary>
+
+- [Point-Cloud Completion with Pretrained Text-to-image Diffusion Models](https://arxiv.org/abs/2306.10533), Kasten et al., NeurIPS 2024| [github](https://github.com/NVlabs/sds-complete) | [bibtext](./citations/sds-complete.txt) 
+- [Zero-shot Point Cloud Completion Via 2D Priors](https://arxiv.org/abs/2404.06814), Huang et al., arXiv 2024 | [bibtext](./citations/zeropc.txt) 
+
+</details>
+
+## Benchmarks and Datasets
+- [ShapeNet](https://shapenet.org/) 
 
 ## Talks
 - TODO
 
 ## Challenge
-- TODO
+- [High-Quality Multi-View Partial Point Cloud for Completion](https://mvp-dataset.github.io/MVP/Completion.html), Pan et al., ICCV 2021 workshop | [github](https://github.com/paul007pl/MVP_Benchmark) | [bibtext](./citations/mvp-bench.txt) 
 
 
 ## Implementations

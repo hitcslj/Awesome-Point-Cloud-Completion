@@ -1,0 +1,9 @@
+@article{stutz2020learning,
+  title={Learning 3d shape completion under weak supervision},
+  author={Stutz, David and Geiger, Andreas},
+  journal={International Journal of Computer Vision},
+  volume={128},
+  pages={1162--1181},
+  year={2020},
+  publisher={Springer}
+}

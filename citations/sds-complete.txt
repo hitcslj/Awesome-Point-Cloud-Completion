@@ -1,0 +1,7 @@
+@article{kasten2024point,
+  title={Point Cloud Completion with Pretrained Text-to-Image Diffusion Models},
+  author={Kasten, Yoni and Rahamim, Ohad and Chechik, Gal},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
+}
