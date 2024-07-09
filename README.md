@@ -59,6 +59,7 @@ This repository catalogs the papers I referenced while completing a project on p
 
 ## Benchmarks and Datasets
 - [ShapeNet](https://shapenet.org/) 
+- [Completion3D: Stanford 3D Point Cloud Completion Benchmark](https://completion3d.stanford.edu/)
 
 ## Talks
 - TODO
