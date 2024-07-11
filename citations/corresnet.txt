@@ -1,0 +1,6 @@
+@inproceedings{Duan2024TCorresNetTG,
+  title={T-CorresNet: Template Guided 3D Point Cloud Completion with Correspondence Pooling Query Generation Strategy},
+  author={Fan Duan and Jiahao Yu and Li Chen},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:271050371}
+}

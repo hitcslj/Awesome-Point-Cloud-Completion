@@ -26,7 +26,9 @@ This repository catalogs the papers I referenced while completing a project on p
 
 - [PCN: Point Completion Network](https://arxiv.org/abs/1808.00671), Yuan et al., 3DV 2018 | [github](https://github.com/wentaoyuan/pcn) | [bibtext](./citations/pcn.txt) 
 - [PoinTr: Diverse Point Cloud Completion with Geometry-Aware Transformers](https://arxiv.org/abs/2108.08839), Yu et al., ICCV 2021 | [github](https://github.com/yuxumin/PoinTr) | [bibtext](./citations/pointr.txt) 
-- [AdaPoinTr: Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers](https://arxiv.org/abs/2301.04545), Yu et al., TPAMI 2023 | [github](https://github.com/yuxumin/PoinTr) | [bibtext](./citations/AdaPoinTr.txt) 
+- [AdaPoinTr: Diverse Point Cloud Completion with Adaptive Geometry-Aware Transformers](https://arxiv.org/abs/2301.04545), Yu et al., TPAMI 2023 | [github](https://github.com/yuxumin/PoinTr) | [bibtext](./citations/AdaPoinTr.txt)
+- [PointAttN: You Only Need Attention for Point Cloud Completion](https://ojs.aaai.org/index.php/AAAI/article/view/28356), Wang et al., AAAI 2024 | [github](https://github.com/ohhhyeahhh/PointAttN) | [bibtext](./citations/pointAttn.txt)
+- [T-CorresNet: Template Guided 3D Point Cloud Completion with Correspondence Pooling Query Generation Strategy](https://arxiv.org/abs/2407.05008v1), Duan et al., ECCV 2024 | [github](https://github.com/df-boy/T-CorresNet) | [bibtext](./citations/corresnet.txt)
 
 </details>
 
