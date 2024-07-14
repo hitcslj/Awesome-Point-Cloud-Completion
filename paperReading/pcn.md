@@ -2,7 +2,7 @@
 
 早期用神经网络做点云补全的经典之作
 
-![alt text](figues/pcn_framework.png)
+![pcn framework](figures/pcn_framework.png)
 
 ## 代码解读
 
