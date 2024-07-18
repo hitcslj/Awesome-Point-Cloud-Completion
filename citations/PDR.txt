@@ -1,0 +1,6 @@
+@article{lyu2021conditional,
+  title={A conditional point diffusion-refinement paradigm for 3d point cloud completion},
+  author={Lyu, Zhaoyang and Kong, Zhifeng and Xu, Xudong and Pan, Liang and Lin, Dahua},
+  journal={arXiv preprint arXiv:2112.03530},
+  year={2021}
+}
