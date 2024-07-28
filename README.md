@@ -40,10 +40,19 @@ This repository catalogs the papers I referenced while completing a project on p
 - [High-Resolution Shape Completion Using Deep Neural Networks for Global Structure and Local Geometry Inference](https://arxiv.org/abs/1709.07599), Han et al., ICCV 2017 | [bibtext](./citations/pcn.txt) 
 - [Learning 3D Shape Completion under Weak Supervision](https://arxiv.org/abs/1805.07290), Stutz et al., CVPR 2018 | [github](https://github.com/davidstutz/cvpr2018-shape-completion) | [bibtext](./citations/scweak.txt) 
 - [Relation-Shape Convolutional Neural Network for Point Cloud Analysis](https://arxiv.org/abs/1904.07601), Liu et al., CVPR 2019 | [github](https://github.com/Yochengliu/Relation-Shape-CNN) | [bibtext](./citations/rscnn.txt) 
-- [Point-Voxel CNN for Efficient 3D Deep Learning](https://arxiv.org/abs/1907.03739), Liu et al., NeurIPS 2019 | [github](https://github.com/mit-han-lab/pvcnn) | [bibtext](./citations/pvcnn.txt)
-
 
 </details>
+
+<details open>
+<summary>PointVoxel(hybrid)-based</summary>
+
+- [Point-Voxel CNN for Efficient 3D Deep Learning](https://arxiv.org/abs/1907.03739), Liu et al., NeurIPS 2019 | [github](https://github.com/mit-han-lab/pvcnn) | [bibtext](./citations/pvcnn.txt)
+- [GRNet: Gridding Residual Network for Dense Point Cloud Completion](https://arxiv.org/abs/2006.03761), Xie et al., ECCV 2020 | [github](https://github.com/hzxie/GRNet) | [bibtext](./citations/grnet.txt)
+- [3D Shape Generation and Completion through Point-Voxel Diffusion](https://arxiv.org/abs/2104.03670), Zhou et al., ICCV 2021 | [github](https://github.com/alexzhou907/PVD) | [bibtext](./citations/pvd.txt)
+
+</details>
+
+ 
 
 <details open>
 <summary>TSDF-based</summary>

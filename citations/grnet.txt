@@ -1,0 +1,8 @@
+@inproceedings{xie2020grnet,
+  title={Grnet: Gridding residual network for dense point cloud completion},
+  author={Xie, Haozhe and Yao, Hongxun and Zhou, Shangchen and Mao, Jiageng and Zhang, Shengping and Sun, Wenxiu},
+  booktitle={European conference on computer vision},
+  pages={365--381},
+  year={2020},
+  organization={Springer}
+}
