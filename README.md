@@ -74,7 +74,8 @@ This repository catalogs the papers I referenced while completing a project on p
 - [Completion3D: Stanford 3D Point Cloud Completion Benchmark](https://completion3d.stanford.edu/)
 
 ## Talks
-- TODO
+- [Chulin Xie's talk](https://www.bilibili.com/video/BV1mh411K7Z4/?spm_id_from=333.337.search-card.all.click&vd_source=0fb3bb9416e8fa252211d77e6b01b9d0)
+- [XiaoYang wu's talk](https://www.bilibili.com/video/BV1Az42187t9/?spm_id_from=333.337.search-card.all.click&vd_source=0fb3bb9416e8fa252211d77e6b01b9d0)
 
 ## Challenge
 - [High-Quality Multi-View Partial Point Cloud for Completion](https://mvp-dataset.github.io/MVP/Completion.html), Pan et al., ICCV 2021 workshop | [github](https://github.com/paul007pl/MVP_Benchmark) | [bibtext](./citations/mvp-bench.txt) 
