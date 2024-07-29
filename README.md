@@ -74,7 +74,7 @@ This repository catalogs the papers I referenced while completing a project on p
 - [Completion3D: Stanford 3D Point Cloud Completion Benchmark](https://completion3d.stanford.edu/)
 
 ## Talks
-- [Chulin Xie's talk, 2021](https://www.bilibili.com/video/BV1mh411K7Z4/?spm_id_from=333.337.search-card.all.click&vd_source=0fb3bb9416e8fa252211d77e6b01b9d0)
+- [Chulin Xie's talk, 2021](https://www.bilibili.com/video/BV1KP4y1w71q/?spm_id_from=333.337.search-card.all.click&vd_source=0fb3bb9416e8fa252211d77e6b01b9d0)
 - [Xiaoyang Wu's talk, 2023](https://www.bilibili.com/video/BV1Az42187t9/?spm_id_from=333.337.search-card.all.click&vd_source=0fb3bb9416e8fa252211d77e6b01b9d0)
 
 ## Challenge
