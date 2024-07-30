@@ -1,0 +1,8 @@
+@article{vahdat2022lion,
+  title={Lion: Latent point diffusion models for 3d shape generation},
+  author={Vahdat, Arash and Williams, Francis and Gojcic, Zan and Litany, Or and Fidler, Sanja and Kreis, Karsten and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={10021--10039},
+  year={2022}
+}

@@ -62,6 +62,14 @@ This repository catalogs the papers I referenced while completing a project on p
 </details>
 
 <details open>
+<summary>Latent feature-based</summary>
+
+- [LION: Latent Point Diffusion Models for 3D Shape Generation](https://arxiv.org/abs/2210.06978), Zeng et al., NeurIPS 2022 | [github](https://github.com/nv-tlabs/LION) | [bibtext](./citations/lion.txt) 
+
+</details>
+
+
+<details open>
 <summary>Neural Repersentation-based</summary>
 
 - [Point-Cloud Completion with Pretrained Text-to-image Diffusion Models](https://arxiv.org/abs/2306.10533), Kasten et al., NeurIPS 2024| [github](https://github.com/NVlabs/sds-complete) | [bibtext](./citations/sds-complete.txt) 
