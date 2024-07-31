@@ -1,0 +1,7 @@
+@inproceedings{li2023diffusion,
+  title={Diffusion-sdf: Text-to-shape via voxelized diffusion},
+  author={Li, Muheng and Duan, Yueqi and Zhou, Jie and Lu, Jiwen},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={12642--12651},
+  year={2023}
+}
