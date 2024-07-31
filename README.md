@@ -57,7 +57,7 @@ This repository catalogs the papers I referenced while completing a project on p
 <details open>
 <summary>TSDF-based</summary>
 
-- [Diffusion-SDF: Text-to-Shape via Voxelized Diffusion](https://arxiv.org/abs/2212.03293), Li et al., CVPR 2023 | [bibtext](./citations/diffusionsdf.txt) 
+- [Diffusion-SDF: Text-to-Shape via Voxelized Diffusion](https://arxiv.org/abs/2212.03293), Li et al., CVPR 2023 | [github](https://github.com/ttlmh/Diffusion-SDF) | [bibtext](./citations/diffusionsdf.txt) 
 - [DiffComplete: Diffusion-based Generative 3D Shape Completion](https://arxiv.org/abs/2306.16329), Chu et al., NeurIPS 2024 | [bibtext](./citations/diffcomplete.txt) 
 
 </details>
